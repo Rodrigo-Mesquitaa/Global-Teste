@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GVT1EB6E6P5d63Va4lTlyI+ehsMxsCCxh2+xN+d7cQ4=",
+  "Source": "SensorMeasurementMicroservice",
+  "BasePath": "_content/SensorMeasurementMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
